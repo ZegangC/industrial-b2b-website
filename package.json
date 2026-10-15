@@ -1,0 +1,12 @@
+{
+  "name": "industrial-b2b-website-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Product case study and selected offline-verifiable inquiry / document-access rules",
+  "engines": {"node": ">=22.6.0"},
+  "scripts": {
+    "demo": "node --experimental-strip-types examples/inquiry-demo.mjs",
+    "test": "node --experimental-strip-types --test tests/*.test.ts"
+  }
+}

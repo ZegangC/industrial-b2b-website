@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env*
+!.env.example
+private/
+.local-data/
+outputs/
+tmp/
+memory/
+素材收集/
+*.tsbuildinfo
+*.log
+*.pdf
+*.xlsx
+.DS_Store
+Thumbs.db

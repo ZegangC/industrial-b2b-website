@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460" viewBox="0 0 1100 460" role="img" aria-labelledby="title desc">
+<title id="title">工业品独立站买方路径与实现边界</title>
+<desc id="desc">业务站已有本地页面与规则；生产收件、通知、真实运营结果和AI客服仍待实现或验收。</desc>
+<rect width="1100" height="460" rx="18" fill="#f1f5f8"/>
+<g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#193047">
+<text x="34" y="40" font-size="14" fill="#087f75" font-weight="700">INDUSTRIAL B2B WEBSITE / PRODUCT CASE STUDY</text>
+<text x="34" y="82" font-size="29" font-weight="700">从了解材料，到提出可跟进的需求</text>
+<text x="34" y="115" font-size="15" fill="#596b7c">真实项目的流程整理；此图为示意，无公司产品参数或客户数据。</text>
+<g font-size="19" font-weight="650">
+<rect x="34" y="151" width="232" height="109" rx="12" fill="white"/>
+<text x="52" y="186">01 浏览与判断</text><text x="52" y="220" font-size="15" font-weight="400">产品 / 应用 / 企业证据</text>
+<text x="277" y="211" fill="#087f75">→</text>
+<rect x="304" y="151" width="232" height="109" rx="12" fill="white"/>
+<text x="322" y="186">02 选择与比较</text><text x="322" y="220" font-size="15" font-weight="400">材料检索 / 技术资料</text>
+<text x="547" y="211" fill="#087f75">→</text>
+<rect x="574" y="151" width="232" height="109" rx="12" fill="white"/>
+<text x="592" y="186">03 统一咨询</text><text x="592" y="220" font-size="15" font-weight="400">产品 / 语言 / 来源上下文</text>
+<text x="817" y="211" fill="#087f75">→</text>
+<rect x="844" y="151" width="222" height="109" rx="12" fill="#e0f0ed"/>
+<text x="862" y="186">04 可靠保存</text><text x="862" y="220" font-size="15" font-weight="400">确认回执后才显示成功</text>
+</g>
+<rect x="34" y="284" width="1032" height="112" rx="12" fill="white"/>
+<text x="54" y="316" font-size="17" font-weight="700">保存以后，仍有独立的业务步骤</text>
+<text x="54" y="348" font-size="16">资料申请：匹配文档 + 短期签名授权　　销售：通知 → 判定 → 人工跟进 → 业务结果</text>
+<text x="54" y="377" font-size="14" fill="#596b7c">生产收件、通知和真实转化待联调 / 测量；AI客服为后续范围。</text>
+<text x="34" y="433" font-size="14" fill="#596b7c">公开仓库：案例文档 + 精选代码与离线测试；完整业务站仍为本地评审版本。</text>
+</g></svg>
